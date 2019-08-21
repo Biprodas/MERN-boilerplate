@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "semicolonUnsecureJwtPrivetKey",
+  "db": "mongodb://localhost/semicolon",
+  "port": "3900",
+  "requiresAuth": false
+}

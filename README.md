@@ -1,1 +1,1 @@
-# MERN-boilerplate
+# MERN  - Boilerplate
